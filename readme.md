@@ -1,2 +1,2 @@
-*my unixporn wall collection 
+my unixporn wall collection 
 https://discord.gg/unixporn
